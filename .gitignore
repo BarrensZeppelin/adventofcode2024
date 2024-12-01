@@ -1,4 +1,5 @@
 *.in
+*.sin
 *.session
 __pycache__
 .response
